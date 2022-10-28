@@ -1,0 +1,3 @@
+프로젝트 우클릭 -> properies (옵션) -> java build path -> source -> add folder
+-> image 체크하기 -> image 파일 더블클릭 후 next -> exclusion patterns ->
+add multple.. -> 싹다 긁어서 ok -> finish
