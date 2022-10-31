@@ -18,7 +18,6 @@
   `java -jar FiveStonesClient.jar`     
 
 - 아이디 비번은 아무거나 입력 (회원가입 기능 없음)
-- 
 ![오목 로그인](http://img.anyjava.net/upload/omock/0004.jpg)
 
 - 대기실
