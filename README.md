@@ -8,7 +8,7 @@
    [JDK 다운로드](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ## 설치방법
-- FiveStonesClient.jar 파일 다운로드 ☞[링크](http://img.anyjava.net/upload/FiveStonesClient.jar)
+- FiveStonesClient.jar 파일 다운로드
 
 - 위 파일을 동일폴더에 위치 시키고 실행한다.
 
@@ -27,9 +27,4 @@
 
 - 게임화면
 ![게임화면](http://img.anyjava.net/upload/omock/0003.jpg)
-
-
-## 개선사항
-- ~~client 강제종료시 server 내 사용자 정보 삭제~~ (2014.03.28 수정)
-
 
