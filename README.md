@@ -9,12 +9,13 @@
    [JDK 다운로드](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ## 설치방법
-- FiveStonesClient.jar 파일 다운로드
+- project_FiveStoneGame.jar 파일 다운로드
 - 위 파일을 동일폴더에 위치 시키고 실행한다.
 
 ## 실행방법
-- 다운받은 jar 파일을 실행시킨다.   
-  `java -jar FiveStonesClient.jar`     
+- 다운받은 jar 파일을 실행시킨다. (cmd창에 경로 파일에서)
+  `java -jar project_FiveStoneGame.jar`
+- 혹은 미리 만들어놓은 start.bat 파일을 실행
 
 - 아이디 비번은 아무거나 입력 (회원가입 기능 없음)
 
